@@ -1,0 +1,118 @@
+/*-----------------------
+  Header Section Style
+------------------------*/
+.header__container {
+  background-color: #264653;
+  margin-bottom: 120px;
+}
+
+.left__para__small__text {
+  color: lightgray;
+}
+.left__part > h1 {
+  font-family: "Poppins", sans-serif;
+}
+.left__para__text {
+  color: #e0e0e0;
+}
+.left__para__text a {
+  text-decoration: none;
+}
+.purchase__button {
+  background-color: #e76f51;
+}
+/*---------------------
+        modal Style
+------------------------*/
+.modal__bg {
+  background-color: #264653;
+}
+.modal__btn {
+  background-color: #e76f51;
+}
+
+/*------------------------
+    Feature Bike Style
+------------------------- */
+.featured__heading__wrapper {
+  margin-bottom: 90px;
+}
+.feature__heading,
+.latest__heading,
+.clients__heading,
+.frequent__heading {
+  color: black;
+  font-family: "Poppins", sans-serif;
+}
+.feature__heading_h6 {
+  color: #e76f51;
+}
+hr {
+  width: 10%;
+  border-bottom: 1px solid darkred;
+}
+.feature__bike {
+  filter: grayscale(100%);
+}
+
+/*-----------------------------
+   Slider and Highlight  Style
+ ----------------------------*/
+.slider__highlight__container {
+  margin: 130px auto;
+}
+
+/*---------------------
+   Latest News Style
+ ---------------------*/
+.latest__container {
+  margin: 130px auto;
+}
+.card__button {
+  border: 1px solid #e76f51;
+}
+.card__button:hover {
+  background: #e76f51;
+}
+
+/*---------------------
+    Happy Clients Style
+ ---------------------*/
+.clients__says,
+.questions {
+  color: #d64a27;
+}
+.client__image {
+  width: 45%;
+}
+.clients__ratings {
+  color: #e77c40;
+}
+/*---------------------
+ Frequent Question Style
+ ---------------------*/
+
+.frequent__container {
+  margin: 120px auto;
+}
+.frequent__heading {
+  margin-bottom: 85px;
+}
+
+/*------------------- 
+      Footer Style
+--------------------*/
+footer {
+  background-color: #0b0d17;
+  padding: 50px 0;
+}
+footer a {
+  text-decoration: none;
+  color: lightgray;
+  display: inline-block;
+  padding: 5px 10px;
+}
+.copyright__text,
+.Footer__app__text {
+  color: lightgray;
+}
